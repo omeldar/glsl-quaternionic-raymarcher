@@ -1,6 +1,6 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "WGSL Quaternionic Raymarcher",
+  "short_name": "QUATMARCHER",
   "icons": [
     {
       "src": "/meta/web-app-manifest-192x192.png",
