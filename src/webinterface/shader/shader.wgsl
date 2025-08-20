@@ -13,7 +13,7 @@
 // Uniforms are passed in a special struct.
 // This struct defines the data we'll send from JavaScript.
 struct Uniforms {
-    resolution: vec2<f2>,
+    resolution: vec2<f32>,
     time: f32,
     mouse: vec2<f32>,
 };
