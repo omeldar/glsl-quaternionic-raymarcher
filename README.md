@@ -1,6 +1,6 @@
 # WGSL  Quaternionic Raymarcher
 
-A real-time WebGL renderer for exploring 4D quaternionic Julia set fractals. This project leverages the power of GLSL fragment shaders to perform all calculations and rendering on the GPU, enabling interactive exploration of these infinitely complex and beautiful mathematical objects.
+A real-time WebGPU renderer for exploring 4D quaternionic Julia set fractals. This project leverages the power of WGSL fragment shaders to perform all calculations and rendering on the GPU, enabling interactive exploration of these infinitely complex and beautiful mathematical objects.
 
 The core of the renderer is a raymarching algorithm that computes the 4-dimensional Julia set for a given quaternion constant (`c`). The 4D fractal is then projected into 3D space for visualization.
 
