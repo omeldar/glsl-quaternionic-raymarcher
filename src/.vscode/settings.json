@@ -1,0 +1,16 @@
+{
+    "editor.fontSize": 12,
+    "editor.fontFamily": "Fira Code, JetBrains Mono, Consolas, 'Courier New', monospace",
+    "editor.tabSize": 4,
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Night Owl",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": true,
+    "terminal.integrated.fontSize": 14,
+    "git.autofetch": true,
+    "prettier.printWidth": 100,
+    "[wgsl]": {
+        "editor.defaultFormatter": "wgsl-analyzer.wgsl-analyzer"
+    }
+}
