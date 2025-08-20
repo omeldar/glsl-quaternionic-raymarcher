@@ -1,3 +1,5 @@
+// main.js
+//
 // Copyright (C) 2025 Eldar Omerovic
 // This file is part of wgsl-quaternionic-raymarcher.
 //
